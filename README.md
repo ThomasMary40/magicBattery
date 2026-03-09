@@ -9,7 +9,7 @@ A lightweight macOS menu bar app that displays battery levels for your Magic Key
 Requires **macOS 14+** and **Xcode Command Line Tools** (`xcode-select --install`).
 
 ```bash
-git clone https://github.com/music-muse/magicBattery.git && cd magicBattery && bash install.sh
+git clone https://github.com/ThomasMary40/magicBattery.git && cd magicBattery && bash install.sh
 ```
 
 This builds the app, copies it to `/Applications`, adds it to your login items, and launches it.
