@@ -4,6 +4,8 @@ A lightweight macOS menu bar app that displays battery levels for your Magic Key
 
 ![MagicBattery Icon](AppIcon.png)
 
+![Screenshot](screenshot.png)
+
 ## Install
 
 Requires **macOS 14+** and **Xcode Command Line Tools** (`xcode-select --install`).
